@@ -1,9 +1,10 @@
-Suspendisse malesuada eros rutrum tempus efficitur. Sed
-sollicitudin varius leo sit amet tempus. Quisque consequat
-justo scelerisque leo ultrices
-at scelerisque ipsum ultricies. Pellentesque libero dui,
-luctus vitae quam euismod, lacinia ornare turpis. Donec at
-viverra massa. Vestibulum laoreet dolor
-id felis hendrerit, vel mattis dolor vulputate. Nullam ut
-sagittis nunc. Vivamus lacinia augue sit amet turpis
-commodo, id dapibus odio dapibus.
+Aliquam elementum, turpis eu lacinia faucibus, diam elit
+sollicitudin nunc, sit amet sodales leo sapien et sem.
+Maecenas mauris eros, sollicitudin at elit in,
+pellentesque
+mattis orci. Aliquam elementum finibus dictum.
+
+CHANGED BY MAINTAINER
+
+Integer ac nibh nec est porttitor semper ultrices eu
+ligula. Etiam sodales porttitor venenatis.
