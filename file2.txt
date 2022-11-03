@@ -1,4 +1,16 @@
 Quisque nec lectus viverra, tempus mi molestie, posuere
 mauris. Nam iaculis ac eros eget bibendum. Phasellus
 egestas fringilla libero sed viverra.
+
 CHANGED BY MAINTAINER
+
+Aliquam elementum, turpis eu lacinia faucibus, diam elit
+sollicitudin nunc, sit amet sodales leo sapien et sem.
+Maecenas mauris eros, sollicitudin at elit in,
+pellentesque
+mattis orci. Aliquam elementum finibus dictum.
+
+CHANGED BY CONTRIBUTOR
+
+Integer ac nibh nec est porttitor semper ultrices eu
+ligula. Etiam sodales porttitor venenatis.
